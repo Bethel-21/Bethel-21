@@ -1,6 +1,5 @@
 # Hi there, I'm Bethelhem Daniel Fenta! 👋
 
-![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
