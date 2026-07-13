@@ -7,7 +7,7 @@ I'm a passionate **Software developer** with experience in **python**. I love ta
 
 - 🌱 Currently learning: **Backend web development + AI Integration**
 - 🔭 Working on: **AI powered opportunity finder and application assistant**
-- 🌍 Languages: **Python, English, Amharic 😉**
+- 🌍 Languages: **English, Amharic 😉**
 - 📫 How to reach me: **bethelhemdanielfenta@gmail.com or bethelhemdaniel2000@gmail.com**
 - ⚡ Fun fact: **I am an ambidextrous**
 
@@ -33,7 +33,7 @@ Docker
 
 ## Get in Touch 📬
 
-- **Personal Website**(bethdaniel.netlify.app)
+- **Personal Website**(bethdaniel.vercel.app)
 - **Linkedin**(www.linkedin.com/in/bet-daniel2000)
 - **[Twitter]**(https://x.com/BethDaniel_F)
 
